@@ -2,7 +2,7 @@
 
 namespace FunWithGeometry
 {
-    class Circle : ICircleEntity
+    class Circle : ICircleFigure
     {
         readonly double radius;
 

@@ -4,8 +4,8 @@
     {
         double Area { get; }
     }
-    public interface ICircleEntity : IFigure { }
-    public interface ITrianleEntity : IFigure
+    public interface ICircleFigure : IFigure { }
+    public interface ITriangleFigure : IFigure
     {
         bool IsRightAngled { get; }
     }

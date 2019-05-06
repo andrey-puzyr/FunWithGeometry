@@ -2,7 +2,7 @@
 
 namespace FunWithGeometry
 {
-    class Triangle : ITrianleEntity
+    class Triangle : ITriangleFigure
     {
         const double precision = 0.1E-6;
 
