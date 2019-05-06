@@ -1,7 +1,7 @@
 Just a test project for the job interview
 
-*Requirements*
+**Requirements**
 * .net core 2.2
 
-*Test*
+**Test**
 To run unit tests, use command `dotnet test`
